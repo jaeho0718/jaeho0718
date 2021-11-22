@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jaeho0718/jaeho0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
