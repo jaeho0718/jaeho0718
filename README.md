@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ##### OpenSource Projects
-- [JHCalendar](https://google.com, "SwiftUI Customizable Calendar Library")
+- [JHCalendar](https://github.com/jaeho0718/JHCalendar, "SwiftUI Customizable Calendar Library")
 
 ##### Other Projects
 - [MakeRythmGame](https://github.com/jaeho0718/WWDC2021_Student_Challenge, "WWDC2021 Scholarship winner")
