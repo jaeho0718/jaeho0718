@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ##### OpenSource Projects
 - [JHCalendar](https://github.com/jaeho0718/JHCalendar, "SwiftUI Customizable Calendar Library")
-
+- [JHTimeTable](https://github.com/jaeho0718/JHTimeTable, "SwiftUI Cutomizable Timetable Library")
 ##### Other Projects
 - [MakeRythmGame](https://github.com/jaeho0718/WWDC2021_Student_Challenge, "WWDC2021 Scholarship winner")
 - [GitGit](https://github.com/jaeho0718/GITGIT, "CAU Hackathon project")
