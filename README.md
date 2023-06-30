@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 ##### Commit
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaeho0718&theme=xcode&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
