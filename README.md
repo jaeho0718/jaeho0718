@@ -21,6 +21,7 @@
 |2021|2021 SwiftStudentChallenge|[WWDC2021_Student_Challenge](https://github.com/jaeho0718/WWDC2021_Student_Challenge)|
 |2021|중앙대 교내 해커톤 대상|[GITGIT](https://github.com/jaeho0718/GITGIT)|
 |2021|UnidThon 대상|[Moti](https://github.com/jaeho0718/moti-ios)|
+|2024|Union Hackathon 1등|[PocketPlant](https://github.com/jaeho0718/PocketPlant-iOS)|
 
 ### 🧑🏻‍💻 Projects
 |App|SubTitle|Repository|AppStore|
