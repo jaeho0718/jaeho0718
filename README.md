@@ -29,3 +29,12 @@
 |과제|할 일, 과제, 시간표관리 앱|---|[과제앱](https://apps.apple.com/us/app/assignment-todo-manager/id1557068079)|
 |디데이즈|디데이 위젯, 라이브액티비티앱|---|[디데이즈](https://apps.apple.com/us/app/ddays/id6469691671)|
 |너는얼마?|친구와 여행갈때 사용하기 위한 여행경비앱|[TripMoney](https://github.com/jaeho0718/TripMoney)|[너는얼마?](https://apps.apple.com/us/app/%EB%84%88%EB%8A%94-%EC%96%BC%EB%A7%88/id1611865869)|
+
+### 🌾 Farm
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jaeho0718&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jaeho0718"
+  width="600"
+  height="300"
+/>
+</a>
